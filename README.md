@@ -1,1 +1,1 @@
-# -bung_Kursverwaltungssystem
+# Uebung_Kursverwaltungssystem
